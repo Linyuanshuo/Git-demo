@@ -1,6 +1,6 @@
 hello lysine! hello git! 111
 hello lysine! hello git! 222 
-hello lysine! hello git!
+hello lysine! hello git! hot-fix
 hello lysine! hello git!
 hello lysine! hello git!
 hello lysine! hello git!
